@@ -26,7 +26,7 @@
 <div align="center">
 > **If the video has an error, reload the page!**<br>
   
-> Access the online project here **[AQUI](https://luckxsz.github.io/SpinWheel-21/)**
+> Access the online project here **[AQUI](https://luckxsz.github.io/Gradient-Generator-22/)**
 
 
 ## Technologies Used
